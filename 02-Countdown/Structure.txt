@@ -1,0 +1,2 @@
+Make a program that user gives second and minute and program countdown to zero
+** : program alarm when time is over
